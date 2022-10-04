@@ -1,0 +1,13 @@
+ 
+       body {
+        display: flex;
+        padding: 10rem;
+    }
+
+    .container {
+        /* border: 2px solid black; */
+        margin: auto;
+        font-size: 20rem;
+        display: flex;
+        flex-direction: column;
+    }
